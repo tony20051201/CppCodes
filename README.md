@@ -29,6 +29,11 @@
 + 基础
 + 搜索
 + 数据结构
+    - [线段树](https://github.com/bjq2007/CppCodes/blob/master/数据结构/线段树)
+        * [加法线段树](https://github.com/bjq2007/CppCodes/blob/master/数据结构/线段树/加法线段树.cpp)
+    - [堆](https://github.com/bjq2007/CppCodes/blob/master/数据结构/堆)
+        * [大根堆](https://github.com/bjq2007/CppCodes/blob/master/数据结构/堆/大根堆.cpp)
+        * [小根堆](https://github.com/bjq2007/CppCodes/blob/master/数据结构/堆/小根堆.cpp)
 + 图论
 + 数论
 + 动态规划
