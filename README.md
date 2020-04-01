@@ -16,9 +16,11 @@
 
 如果您在代码上有所需求，希望我的代码仓库能帮助到你。
 
-如果这里没有您想要的代码或者您想为**bjq**提供时间复杂度或空间复杂度上比**bjq**的代码更有的代码，
+如果这里没有您想要的代码或者您想为**bjq**提供时间复杂度或空间复杂度上比**bjq**的代码更优的代码，
 
 欢迎添加**bjq**的QQ：**3526672525**与**bjq**私信。
+
+若**bjq**的代码有所错误，请您加**bjq**的QQ向**bjq**指出错误，感谢您的纠正！
 
 如果您能提供更多的**复杂题目**或**生疏模板**的代码，请私信**bjq**，很感谢您能为代码仓库作出一份贡献！
 
@@ -30,10 +32,10 @@
 + 搜索
 + 数据结构
     - 线段树
-        * [加法线段树](https://github.com/bjq2007/CppCodes/blob/master/数据结构/线段树/加法线段树.cpp)
+        * [加法线段树](https://github.com/bjq2007/CppCodes/blob/master/数据结构/线段树/加法线段树.cpp) Contributer : bjq
     - 堆
-        * [大根堆](https://github.com/bjq2007/CppCodes/blob/master/数据结构/堆/大根堆.cpp)
-        * [小根堆](https://github.com/bjq2007/CppCodes/blob/master/数据结构/堆/小根堆.cpp)
+        * [大根堆](https://github.com/bjq2007/CppCodes/blob/master/数据结构/堆/大根堆.cpp) Contributer : bjq
+        * [小根堆](https://github.com/bjq2007/CppCodes/blob/master/数据结构/堆/小根堆.cpp) Contributer : bjq
 + 图论
 + 数论
 + 动态规划
