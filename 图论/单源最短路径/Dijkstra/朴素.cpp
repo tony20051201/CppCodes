@@ -3,9 +3,9 @@ const int N = 1005;
 int adj[N][N], d[N];
 bool st[N];
 
-int dijkstra(int s) {
+int dijkstra() {
 	memset(d, 0x3f, sizeof d);
-	d[s] = 0;
+	d[1] = 0;
 	for (int i = 1; i < n; i++) {
 		int t = -1;
 		for (int j = 1; j <= n; j++)
@@ -19,4 +19,4 @@ int dijkstra(int s) {
 }
 
 adj[i][j] = v; // 连接点i到点j的一条有向边，边权为v
-dijkstra(s); // 求点s到其余个点的单源最短路径，若值等于0x3f3f3f3f则没有有效路径 
+dijkstra(); // 求点1到点n的单源最短路径，若值等于0x3f3f3f3f则没有有效路径 
