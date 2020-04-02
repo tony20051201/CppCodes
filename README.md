@@ -15,8 +15,6 @@
 + 动态规划
 + **OI竞赛**常见题目
 
-当然，**bjq**以后在这里会放几首超级好听的歌，供大家**AK IOI**时聆听~
-
 难度平均在**普及**至**NOI**内。
 
 如果您在代码上有所需求，希望我的代码仓库能帮助到你。
@@ -68,6 +66,10 @@ int main() {
             2. [堆优化算法](https://github.com/bjq2007/CppCodes/blob/master/图论/单源最短路径/Dijkstra/堆优化.cpp) Contributor : bjq LastUpdateTime : 2020.4.2
         * [Bellman Ford](https://github.com/bjq2007/CppCodes/blob/master/图论/单源最短路径/Bellman%20Ford.cpp) Contributor : bjq LastUpdateTime : 2020.4.2
         * [SPFA](https://github.com/bjq2007/CppCodes/blob/master/图论/单源最短路径/SPFA.cpp) Contributor : bjq LastUpdateTime : 2020.4.2
+        * [有边数限制的最短路](https://github.com/bjq2007/CppCodes/blob/master/图论/单源最短路径/有边数限制的最短路.cpp) Contributor : bjq LastUpdateTime : 2020.4.2
+    - 二分图
+        * [染色法判断二分图](https://github.com/bjq2007/CppCodes/blob/master/图论/二分图/染色法判断二分图.cpp)  Contributor : bjq LastUpdateTime : 2020.4.2
+        * [二分图的最大匹配](https://github.com/bjq2007/CppCodes/blob/master/图论/二分图/匈牙利算法.cpp) Contributor : bjq LastUpdateTime : 2020.4.2
     - [Floyd](https://github.com/bjq2007/CppCodes/blob/master/图论/Floyd.cpp) Contributor : bjq LastUpdateTime : 2020.4.2
     - [SPFA判负环](https://github.com/bjq2007/CppCodes/blob/master/图论/SPFA判负环.cpp) Contributor : bjq LastUpdateTime : 2020.4.2
 + 数论
