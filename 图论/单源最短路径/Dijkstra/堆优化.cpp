@@ -30,6 +30,6 @@ int dijkstra(int s) {
 }
 
 add(x, y, z); // 连接点x到点y的一条有向边，边权为z
-dijkstra(s); // 从点s到其余各点的最短路径 
+dijkstra(s); // 从点s到其余各点的最短路径，若值等于0x3f3f3f3f则没有有效路径 
  
  
