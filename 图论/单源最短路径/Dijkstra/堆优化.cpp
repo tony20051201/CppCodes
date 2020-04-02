@@ -10,11 +10,11 @@ void add(int x, int y, int z) {
 	e[++idx] = y, w[idx] = z, ne[idx] = h[x], h[x] = idx;
 }
 
-int dijkstra(int s) {
+int dijkstra() {
 	priority_queue<PII, vector<PII>, greater<PII> > q;
-	q.push({0, s});
+	q.push({0, 1});
 	memset(d, 0x3f, sizeof d);
-	d[s] = 0;
+	d[1] = 0;
 	while (!q.empty()) {
 		int x = q.top().second; q.pop();
 		st[x] = 1;
@@ -30,6 +30,6 @@ int dijkstra(int s) {
 }
 
 add(x, y, z); // 连接点x到点y的一条有向边，边权为z
-dijkstra(s); // 从点s到其余各点的最短路径，若值等于0x3f3f3f3f则没有有效路径 
+dijkstra(); // 从点1到点n的单源最短路径，若值等于0x3f3f3f3f则没有有效路径 
  
  
