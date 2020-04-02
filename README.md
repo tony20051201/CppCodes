@@ -71,6 +71,7 @@ int main() {
         * [Bellman Ford](https://github.com/bjq2007/CppCodes/blob/master/图论/单源最短路径/Bellman%20Ford.cpp) Contributor : bjq LastUpdateTime : 2020.4.2
         * [SPFA](https://github.com/bjq2007/CppCodes/blob/master/图论/单源最短路径/SPFA.cpp) Contributor : bjq LastUpdateTime : 2020.4.2
     - [Floyd](https://github.com/bjq2007/CppCodes/blob/master/图论/Floyd.cpp) Contributor : bjq LastUpdateTime : 2020.4.2
+    - [SPFA判负环](https://github.com/bjq2007/CppCodes/blob/master/图论/SPFA判负环.cpp) Contributor : bjq LastUpdateTime : 2020.4.2
 + 数论
 + 动态规划
 + **OI竞赛**常见题目
